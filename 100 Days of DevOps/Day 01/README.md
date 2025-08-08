@@ -18,12 +18,28 @@ ssh username@remote_server_ip
 ```bash
 sudo useradd -s /sbin/nologin username
 ```
-This ensures the user exists on the system but cannot log in interactively - often used for service accounts or automation tasks where login is not required.
+* -s option stands for:
+    --shell → It specifies the login shell for the new user.
 
 ## 📚 Key Concepts:
-* /sbin/nologin: A shell that immediately exits and prevents interactive login.
 
-* Used to improve security by restricting shell access.
+🔍 What is a "login shell"?
+A login shell is the program that runs when a user logs into the system, usually something like:
+
+* /bin/bash (for interactive users)
+
+* /bin/sh, /bin/zsh, etc.
+
+🛡️ Why use /sbin/nologin?
+
+Setting the shell to /sbin/nologin:
+
+* Prevents the user from logging in interactively 
+
+* They can’t run commands via SSH or terminal
+
+* Commonly used for service accounts (e.g: a user that runs background tasks but doesn’t need login access)
+
 
 ## 🔗 Related Tags
 #100DaysOfDevOps #Linux #KodeKloudEngineer #DevOpsJourney #ContinuousLearning
