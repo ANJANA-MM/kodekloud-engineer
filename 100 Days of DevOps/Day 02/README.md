@@ -42,7 +42,7 @@ Account expires : Sep 18, 2025
 * Temporary accounts are useful for:
       - contractors
       - interns
-      - or time-bound tasks.
+       - or time-bound tasks.
 
 * The account gets automatically disabled after the expiry date, improving security.
 
