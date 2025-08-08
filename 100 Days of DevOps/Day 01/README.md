@@ -18,12 +18,12 @@ ssh username@remote_server_ip
 ```bash
 sudo useradd -s /sbin/nologin username
 ```
-This ensures the user exists on the system but cannot log in interactively — often used for service accounts or automation tasks where login is not required.
+This ensures the user exists on the system but cannot log in interactively - often used for service accounts or automation tasks where login is not required.
 
-📚 Key Concepts:
+##📚 Key Concepts:
 * /sbin/nologin: A shell that immediately exits and prevents interactive login.
 
 * Used to improve security by restricting shell access.
 
-🔗 Related Tags
+##🔗 Related Tags
 #100DaysOfDevOps #Linux #KodeKloudEngineer #DevOpsJourney #ContinuousLearning
