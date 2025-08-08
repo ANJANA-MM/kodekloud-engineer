@@ -15,10 +15,10 @@ I'll be updating this README and related files daily with my progress, learnings
 ## 📅 Daily Progress
 
 - ✅ **Day 01** – [View task here](https://github.com/ANJANA-MM/kodekloud-engineer/tree/70d5cce394a56b28f6d7062b9cede603ab01a4b7/100%20Days%20of%20DevOps/Day%2001) 
-- ✅ **Day 02** – [View task here]
-- ✅ **Day 03** – [View task here]
-- ✅ **Day 04** – [View task here]
-- ✅ **Day 05** – *Coming soon...*
+- ✅ **Day 02** – [View task here](https://github.com/ANJANA-MM/kodekloud-engineer/tree/cde004789c1a2eb6e4ca50023b4797b6238a3d4c/100%20Days%20of%20DevOps/Day%2002)
+- ✅ **Day 03** – [View task here](https://github.com/ANJANA-MM/kodekloud-engineer/tree/cde004789c1a2eb6e4ca50023b4797b6238a3d4c/100%20Days%20of%20DevOps/Day%2003)
+- ✅ **Day 04** – [View task here](https://github.com/ANJANA-MM/kodekloud-engineer/tree/cde004789c1a2eb6e4ca50023b4797b6238a3d4c/100%20Days%20of%20DevOps/Day%2004)
+- 🔄 **Day 05** – *Coming soon...*
 
 ---
 
